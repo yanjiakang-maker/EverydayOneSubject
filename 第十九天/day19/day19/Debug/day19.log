@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\桌面\source\每日一题\第十九天\day19\day19\test.cpp(15,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\桌面\source\每日一题\第十九天\day19\day19\test.cpp(15,39): warning C4018: “<”: 有符号/无符号不匹配
+D:\桌面\source\每日一题\第十九天\day19\day19\test.cpp(24,29): warning C4018: “>”: 有符号/无符号不匹配
+  day19.vcxproj -> D:\桌面\source\每日一题\第十九天\day19\Debug\day19.exe
